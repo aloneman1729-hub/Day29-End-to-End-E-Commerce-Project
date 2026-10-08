@@ -1,0 +1,9 @@
+target/
+project/
+output/
+.bsp/
+.metals/
+.idea/
+.vscode/
+.DS_Store
+*.log

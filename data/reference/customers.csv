@@ -1,0 +1,7 @@
+customer_id,customer_name,city,segment
+CUST001,Aarav,Hyderabad,PREMIUM
+CUST002,Diya,Bangalore,REGULAR
+CUST003,Rohan,Chennai,PREMIUM
+CUST004,Ananya,Pune,REGULAR
+CUST005,Vikram,Delhi,PREMIUM
+CUST006,Meera,Mumbai,REGULAR

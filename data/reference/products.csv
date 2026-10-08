@@ -1,0 +1,7 @@
+product_id,product_name,category,brand
+PROD001,Laptop,Electronics,TechPro
+PROD002,Headphones,Electronics,SoundMax
+PROD003,Keyboard,Accessories,KeyMaster
+PROD004,Backpack,Accessories,TravelGear
+PROD005,Smartphone,Electronics,MobileX
+PROD006,Mouse,Accessories,ClickPro
